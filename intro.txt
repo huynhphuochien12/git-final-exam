@@ -1,0 +1,17 @@
+Giới thiệu bản thân:
+Xin chào, tôi tên là Huỳnh Phước Hiền.
+Tôi là sinh viên ngành Công nghệ thông tin.
+Tôi quan tâm đến lập trình phần mềm và quản lý dự án.
+Tôi thích học những công nghệ mới và rèn luyện kỹ năng mềm.
+Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp.
+
+Sở thích:
+- Đọc sách công nghệ
+- Đá bóng
+- Du lịch
+
+Kỹ năng:
+- Lập trình C#
+- Sử dụng Git
+- Làm việc nhóm
+
