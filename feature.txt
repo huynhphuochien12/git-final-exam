@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý người dùng trong hệ thống.  
+1. Cho phép thêm tài khoản mới.  
+2. Cho phép chỉnh sửa thông tin người dùng.  
+3. Cho phép xóa tài khoản không cần thiết.  
+4. Hiển thị danh sách tài khoản hiện có.  
+5. Phân quyền truy cập cho từng loại tài khoản.
