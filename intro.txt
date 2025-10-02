@@ -15,3 +15,11 @@ Kỹ năng:
 - Sử dụng Git
 - Làm việc nhóm
 
+Kế hoạch học tập:
+- Hoàn thành khóa học Git và GitHub.
+- Nâng cao kỹ năng lập trình C# và .NET.
+- Thực hiện dự án nhỏ áp dụng kiến thức đã học.
+- Tìm hiểu thêm về cơ sở dữ liệu SQL.
+- Cải thiện kỹ năng tiếng Anh chuyên ngành.
+
+
